@@ -1,11 +1,11 @@
 {
   "name": "@pillowstudio/node-thermal-printer",
-  "version": "4.1.2",
+  "version": "4.1.2-xp",
   "description": "Print on Epson and Star thermal printers with NodeJS",
   "main": "node-thermal-printer.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Klemen1337/node-thermal-printer"
+    "url": "https://github.com/PillowStudio/node-thermal-printer"
   },
   "keywords": [
     "thermal printer",
@@ -17,9 +17,9 @@
   "author": "Klemen Kastelic <klemen.kast@gmail.com> (http://kastelic.net/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Klemen1337/node-thermal-printer/issues"
+    "url": "https://github.com/PillowStudio/node-thermal-printer/issues"
   },
-  "homepage": "https://github.com/Klemen1337/node-thermal-printer",
+  "homepage": "https://github.com/PillowStudio/node-thermal-printer",
   "dependencies": {
     "iconv-lite": "0.5.0",
     "pngjs": "3.3.3",
