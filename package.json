@@ -1,6 +1,6 @@
 {
   "name": "@pillowstudio/node-thermal-printer",
-  "version": "4.1.4-xp",
+  "version": "4.1.5-xp",
   "description": "Print on Epson and Star thermal printers with NodeJS",
   "main": "node-thermal-printer.js",
   "repository": {
